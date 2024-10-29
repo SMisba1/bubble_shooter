@@ -1,2 +1,0 @@
-# bubble_shooter
-BubbleShooter
